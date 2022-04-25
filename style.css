@@ -122,7 +122,7 @@ nav{
 }
 
 .about_img{
-	margin-right: 4rem;
+	margin-right: rem;
 }
 
 .about_txt{
@@ -409,3 +409,4 @@ footer{
 	width: 9%;
 	margin-right: 1rem;
 }
+/* 123 */
