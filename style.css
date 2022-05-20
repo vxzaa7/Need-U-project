@@ -126,7 +126,10 @@ nav{
 }
 
 .about_txt{
+	
+	margin-left: 50px;
 	width: 25%;
+	
 }
 .about_txt h2{
 	font-size: 2.5rem;
